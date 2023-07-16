@@ -11,7 +11,6 @@ Junior Web Developer
 * ✉️  You can contact me at [ismanoallaps4@gmail.com](mailto:ismanoallaps4@gmail.com)
 * 🧠  I'm learning ReactJS, NextJS and TailwindCSS
 * 🤝  I'm open to collaborating on Interesting projects
-* 💻  My last project is [Tips & Trips](https://nextjs-ismanoallaps4.vercel.app/)   /   You can check the code [here](https://gitlab.com/ismanoallaps4/nextjs/-/tree/main/002-tfgtest)
 
 ### Skills
 
@@ -38,3 +37,7 @@ Junior Web Developer
 ### Badges
 
 <a href="https://github.com/ismaelfonsecacid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelfonsecacid&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/ismaelfonsecacid/projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ismaelfonsecacid&repo=projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
