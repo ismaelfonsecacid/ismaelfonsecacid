@@ -11,6 +11,7 @@ Junior Web Developer
 * ✉️  You can contact me at [ismanoallaps4@gmail.com](mailto:ismanoallaps4@gmail.com)
 * 🧠  I'm learning ReactJS, NextJS and TailwindCSS
 * 🤝  I'm open to collaborating on Interesting projects
+* 💻  My last project is [Tips & Trips](https://nextjs-ismanoallaps4.vercel.app/)   /   You can check the code here[Code](https://gitlab.com/ismanoallaps4/nextjs/-/tree/main/002-tfgtest)
 
 ### Skills
 
