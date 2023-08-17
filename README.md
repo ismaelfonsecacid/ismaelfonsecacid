@@ -21,6 +21,7 @@ Hi there! I'm Ismael, a recent graduate in Web Development. I love programming a
 <p align="left">
 <a href="https://linkedin.com/in/ismaelfonsecacid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ismaelfonsecacid/" height="30" width="40" /></a>
 </p>
+
 ### Badges
 
 <a href="https://github.com/ismaelfonsecacid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelfonsecacid&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
