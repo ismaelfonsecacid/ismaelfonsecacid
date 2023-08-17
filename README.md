@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web Developer
 --------------------
 
-Hey there! I'm Ismael, a recent graduate in Web Development with a passion for coding and teamwork. I thrive on challenges and diving into new tech. Currently, I'm honing my skills in React, NextJS, and the MERN stack. These tools let me craft top-notch web apps, captivating user experiences, and complete systems using MongoDB, Express.js, React, and Node.js. I'm always tuned in to the latest web dev trends and practices to keep growing professionally. Ready to tackle exciting projects and evolve with the industry!
+Hi there! I'm Ismael, a recent graduate in Web Development. I love programming and enjoy working with teams to achieve great results. I'm always ready to tackle challenges and learn new technologies. Currently, I'm focusing on mastering React and NextJS, two essential tools in modern web development. These technologies allow me to build high-quality web applications and create engaging user experiences. I'm excited to apply my knowledge in React and NextJS to tackle exciting projects and continue growing professionally. I'm committed to staying updated with the latest trends and best practices in web development, always ready to adapt and learn new languages and technologies as the industry evolves.
 
 * 🌍  I'm based in Galicia,Spain
 * 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/ismaelfonsecacid/projects)
